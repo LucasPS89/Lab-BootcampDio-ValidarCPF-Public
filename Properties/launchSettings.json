@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Lab_BootcampDio_ValidarCPF_Public": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7255",
+      "launchBrowser": false
+    }
+  }
+}
